@@ -6,6 +6,10 @@ h1 {text-align:center;
 text-transform:uppercase;
 font-size:2.5em;}
 
+#intro{
+	text-align: center;
+}
+
 #content {
 	width: 960px;
 	margin-top: 0px;
